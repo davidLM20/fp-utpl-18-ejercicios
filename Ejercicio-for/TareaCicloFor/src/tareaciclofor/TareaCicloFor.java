@@ -86,7 +86,7 @@ public class TareaCicloFor {
         total_prom = prom_final / lim1;
         
         System.out.println("   ");
-        System.out.println("Reporte de calificaciones dde estudiantes");
+        System.out.println("Reporte de calificaciones de estudiantes");
         System.out.println(" ");
         System.out.println(cadena_oficial);
         System.out.println("Informacion global de los estudiantes:");
