@@ -43,7 +43,7 @@ public class TareaCicloFor {
         for (int i = 1; i <= lim1; i++) {
             String cadena_final = String.format("%s\t%s\t\t%-10s\t%s\n", "Materias", "Bim-1", "Bim-2", "Promedio");
             entrada.nextLine();
-
+            
             prom2 = 0;
             System.out.printf("Ingrese el nombre del estudiante %d\n", i);
             nom_est = entrada.nextLine();
